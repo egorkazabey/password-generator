@@ -1,0 +1,8 @@
+.number {
+	width: 40px;
+}
+
+.flex {
+	display: flex;
+	flex-direction: column;
+}
